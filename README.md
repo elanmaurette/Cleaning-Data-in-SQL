@@ -11,3 +11,5 @@ Query languages:
 *Make it easier for you to learn and understand the requests made to databases
 
 *Allow analysts to select, create, add, or download data from a database for analysis
+
+Organized, sorted, filtered, and aggregated data for analysis, and performed basic calculations with functions and formulas in SQL queries and temporary tables in databases
